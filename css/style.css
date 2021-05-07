@@ -1,0 +1,24 @@
+
+body {
+  overflow-x: hidden;
+}
+
+div#sobre {
+  background-color: #1A535C;
+}
+
+div#sobre h1 {
+  color: aliceblue;
+}
+
+div#sobre h4 {
+  font-family: fontelogo, sans-serif;
+  color: aliceblue;
+}
+
+div#sobre p {
+  color: aliceblue;
+  font-size: 16pt;
+}
+
+/*# sourceMappingURL=style.css.map */
